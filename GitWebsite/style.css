@@ -1,0 +1,27 @@
+body{
+	color: white;
+	background-color: black;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+	flex-wrap: wrap;
+	font-weight: normal;
+}
+
+header{
+	font-size: 24px;
+}
+a{
+	font-size: 18px;
+}
+p{
+	color:grey;
+	font-size: 20px;
+}
+h3{
+	font-size: 32px;
+}
+
+footer{
+	text-align: right;
+}
